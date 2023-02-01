@@ -35,7 +35,7 @@ Below are the table describes the countries which have more tourist flow.
 |Nepal            |Nepal is famous for its mountains ,hill climbing and temples.Here the mountains are covered with snow which is good to see | 3 days|
 
 *****
-##Funny Quations
+## Funny Quations
 
 >"It takes an awful lot of time to not write a book" .
     Author : *Douglas Adams*
@@ -45,7 +45,7 @@ Below are the table describes the countries which have more tourist flow.
    
 *****    
 
-##Code Fencing
+## Code Fencing
 
 >  [How do you post to an iframe?](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
 
