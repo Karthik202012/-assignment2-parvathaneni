@@ -43,4 +43,13 @@ Below are the table describes the countries which have more tourist flow.
 >"Accept who you are.Unless you are a serial killer".
    Author :  "Ellen"
    
-*****
+*****    
+
+##Code Fencing
+
+>  [How do you post to an iframe?](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
+
+
+```<form action="iframe.php" target="my-iframe" method="post"><label for="text">Some text:</label><input type="text" name="text" id="text"><input type="submit" value="post"></form><iframe name="my-iframe" src="iframe.php"></iframe>```
+
+[solution link](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
